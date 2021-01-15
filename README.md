@@ -9,16 +9,16 @@
 
 ### I ❤  working using:
 
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/babel.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/css3.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/html5.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/javascript.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/jquery.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/mysql.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/php.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/react.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/redhat.svg"/>
-<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/main/icons/redux.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/babel.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/css3.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/html5.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/javascript.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/jquery.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/mysql.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/php.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/react.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/redhat.svg"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/jaggaer-ststojanovic/jaggaer-ststojanovic/main/icons/redux.svg"/>
 
 <br/>
 <br/>
